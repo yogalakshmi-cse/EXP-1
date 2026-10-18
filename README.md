@@ -45,30 +45,36 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="943" height="655" alt="BEEE KVL Circuit Diagram 2026-10-17 202708" src="https://github.com/user-attachments/assets/f20b5880-653b-4369-aada-5b655c59b9db" />
 
 
 b.  KCL:
- 
+
+  <img width="1062" height="766" alt="BEEE KCL Circuit Diagram 2026-10-17 201513" src="https://github.com/user-attachments/assets/2eb56e41-7bd9-4494-8931-03b038e2931e" />
+
 
 Calculation:
 
 a.   KVL:
  
+<img width="1086" height="1448" alt="BEEE KVL Calculation" src="https://github.com/user-attachments/assets/bbbce60f-7f2a-40fa-9246-2781afaca25e" />
 
 
 b.  KCL:
 
-
+ <img width="1086" height="1448" alt="BEEE KCL Calculation" src="https://github.com/user-attachments/assets/d29e5f87-6752-4bb7-ba9b-29e48b679952" />
 
 
 Tabulation:
 
 a.   KVL:
  
+<img width="1448" height="1086" alt="BEEE KVL Tabulation " src="https://github.com/user-attachments/assets/aa9e52e2-5471-4618-bab1-b500c64dad71" />
 
 
 b.  KCL:
 
+<img width="1448" height="1086" alt="BEEE KCL Tabulation" src="https://github.com/user-attachments/assets/1b949f1b-0c06-4a8d-b8a7-415cecf692d1" />
 
 
 RESULT:
